@@ -1,0 +1,9 @@
+.github-markdown-body {
+  font-size: 24px !important;
+  line-height: 1.6 !important;
+}
+
+.github-markdown-body code,
+.github-markdown-body pre {
+  font-size: 0.95em !important;
+}
